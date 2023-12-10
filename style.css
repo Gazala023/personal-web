@@ -267,6 +267,10 @@ textarea {
 /* Mobile phone */
 @media (max-width: 450px) {
 
+    .navbar {
+        width: 100%;
+    }
+
     .content {
         flex-direction: column-reverse;
         justify-content: center;
@@ -284,7 +288,7 @@ textarea {
 
     .img img {
         width: 250px;
-        height: 250px;   
+        height: 250px;
     }
 
     .img {
@@ -307,7 +311,7 @@ textarea {
         display: flex;
         justify-content: space-between;
         margin: 0 7%;
-    
+
     }
 
     .social-media-icon {
@@ -334,7 +338,7 @@ textarea {
 
     .credit {
         margin: auto;
-        
+
     }
 
     #myproject {
