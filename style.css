@@ -282,9 +282,7 @@ textarea {
 
 /* Mobile phone */
 @media (max-width: 768px) {
-    body {
-        width: 600px;
-    }
+    
 
     .menu-icon {
         display: block;
